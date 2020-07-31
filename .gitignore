@@ -1,5 +1,7 @@
 .DS_Store
 .idea
+server.crt
+server.key
 # Logs
 *.log
 npm-debug.log*
